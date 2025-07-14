@@ -1,7 +1,6 @@
 import type { Metadata } from 'next';
 import { Inter, Fira_Code } from 'next/font/google';
 import './globals.css';
-import { MetaData } from '@/config/Metadata';
 
 const inter = Inter({
   variable: '--font-sans',
